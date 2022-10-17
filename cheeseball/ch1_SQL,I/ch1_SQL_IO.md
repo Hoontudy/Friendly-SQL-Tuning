@@ -1,0 +1,1 @@
+[ch1 SQL 처리과정과 I/O](https://velog.io/@yhlee9753/%EC%B9%9C%EC%A0%88%ED%95%9C-SQL-%ED%8A%9C%EB%8B%9D-1%EC%9E%A5-SQL-%EC%B2%98%EB%A6%AC-%EA%B3%BC%EC%A0%95%EA%B3%BC-IO)
