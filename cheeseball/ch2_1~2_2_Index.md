@@ -1,0 +1,1 @@
+[ch2.1 ~ 2.2 Index](https://velog.io/@yhlee9753/%EC%B9%9C%EC%A0%88%ED%95%9C-SQL-%ED%8A%9C%EB%8B%9D-2.12.2%EC%9E%A5-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EA%B8%B0%EB%B3%B8)
