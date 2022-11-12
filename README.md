@@ -18,5 +18,7 @@
 |:---------:|:---:|:---:|:------:|:----------:|
 |2022.10.25|1장|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/1)|[요약정리](https://yerimearth.notion.site/1-SQL-I-O-633ffd25d66842d39e4ada4053c892b3)|[요약정리](https://velog.io/@yhlee9753/%EC%B9%9C%EC%A0%88%ED%95%9C-SQL-%ED%8A%9C%EB%8B%9D-1%EC%9E%A5-SQL-%EC%B2%98%EB%A6%AC-%EA%B3%BC%EC%A0%95%EA%B3%BC-IO)|
 |2022.10.28|2.1~2.2장|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/7)|[요약정리](https://yerimearth.notion.site/2-694f2d3f06d3462a992902ab53ad7dd4)|[요약정리](https://velog.io/@yhlee9753/%EC%B9%9C%EC%A0%88%ED%95%9C-SQL-%ED%8A%9C%EB%8B%9D-2.12.2%EC%9E%A5-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EA%B8%B0%EB%B3%B8)|
-|2022.11.04|2.3~3.2장|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/9)|[요약정리]()|[요약정리](https://velog.io/@yhlee9753/%EC%B9%9C%EC%A0%88%ED%95%9C-SQL-%ED%8A%9C%EB%8B%9D-2.33.2%EC%9E%A5-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%ED%8A%9C%EB%8B%9D)|
-|2022.11.08|3.3장|[요약정리]()|[요약정리]()|[요약정리]()|
+|2022.11.04|2.3~3.2장|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/9)|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/11)|[요약정리](https://velog.io/@yhlee9753/%EC%B9%9C%EC%A0%88%ED%95%9C-SQL-%ED%8A%9C%EB%8B%9D-2.33.2%EC%9E%A5-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%ED%8A%9C%EB%8B%9D)|
+|2022.11.08|3.3장|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/12)|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/11)|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/13)|
+|2022.11.12|3.4장~4.1장|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/15)|[요약정리]()|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/14)|
+|2022.11.15|4.2장~4.3장|[요약정리]()|[요약정리]()|[요약정리]()|
