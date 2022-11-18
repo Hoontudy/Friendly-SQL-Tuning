@@ -23,4 +23,5 @@
 |2022.11.12|3.4장~4.1장|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/15)|[요약정리]()|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/14)|
 |2022.11.15|4.2장~4.3장|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/16)|[요약정리]()|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/17)|
 |2022.11.18|4.4장|[요약정리]()|[요약정리]()|[요약정리]()|
+|2022.11.29|5.1장~5.2장|[요약정리]()|[요약정리]()|[요약정리]()|
 
