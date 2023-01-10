@@ -1,0 +1,1 @@
+[ch6_3 파티션을 활용한 DML 튜닝](https://velog.io/@yhlee9753/%EC%B9%9C%EC%A0%88%ED%95%9C-SQL-%ED%8A%9C%EB%8B%9D-6.3-%ED%8C%8C%ED%8B%B0%EC%85%98%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-DML-%ED%8A%9C%EB%8B%9D)
