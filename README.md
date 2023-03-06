@@ -25,4 +25,6 @@
 |2022.11.18|4.4장|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/19)|[요약필요]()|[요약필요]()|
 |2022.11.30|5.1장~5.2장|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/21)|[요약필요]()|[요약정리](https://velog.io/@yhlee9753/%EC%B9%9C%EC%A0%88%ED%95%9C-SQL-%ED%8A%9C%EB%8B%9D-5.15.2-%EC%86%8C%ED%8A%B8-%ED%8A%9C%EB%8B%9D)|
 |2022.12.15|5.3장~5.4장|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/23)|[요약필요]()|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/22)|
-
+|2022.12.22|6.1장|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/24)|[요약필요]()|[요약필요]()|
+|2022.12.29|6.2장|[요약필요]()|[요약필요]()|[요약필요]()|
+|2023.01.05|6.3장|[요약필요]()|[요약필요]()|[요약정리](https://github.com/Hoontudy/Friendly-SQL-Tuning/pull/25)|
